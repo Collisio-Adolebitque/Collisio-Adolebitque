@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+What am I currently doing?:
 
 - 🔭 I’m currently working on AWS.
 - 🌱 I’m currently learning Terraform.
